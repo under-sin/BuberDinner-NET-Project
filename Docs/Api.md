@@ -1,0 +1,1 @@
+Adicionar documentação para autenticação
