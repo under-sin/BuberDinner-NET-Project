@@ -13,5 +13,3 @@
 ```
 > Note: Passwords shouldn't be laying
 around like this
-
-A
