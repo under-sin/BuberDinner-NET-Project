@@ -14,4 +14,9 @@
     <ProjectReference Include="..\BuberDinner.Application\BuberDinner.Application.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Mapster" Version="7.4.1-pre01" />
+    <PackageReference Include="Mapster.DependencyInjection" Version="1.0.2-pre01" />
+  </ItemGroup>
+
 </Project>
